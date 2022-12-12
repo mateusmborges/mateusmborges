@@ -1,6 +1,7 @@
 - Hi, I’m @mateusmborges!
 - I'm interested in software development and software solutions!
-- My hobby is scripting with Google Apps Script. Have you ever heard of it? rs
+- Currently studying to become a back-end developer.
+- My interests are NodeJS, Prisma, NestJS
 
 
 <!---
