@@ -1,7 +1,7 @@
 - Hi, I’m @mateusmborges!
-- I'm interested in software development and software solutions!
-- Currently studying to become a back-end developer.
-- My interests are NodeJS, Prisma, NestJS
+- I'm interested in automating Google Workspace Apps, software development and data analysis!
+- Currently studying to become a automation developer.
+- My interests are Google Apps Script, Google Workspace, Google BigQuery, Google Looker Studio, Google Cloud Platform.
 
 
 <!---
